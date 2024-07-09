@@ -1,0 +1,13 @@
+{
+"type":"FeatureCollection",
+"name": "landmarks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features":[
+{"type":"Feature","properties":{"name": "Eiffel Tower", "poprank": 1 },"geometry":{"coordinates":[2.294490957007781,48.858250345757796],"type":"Point"}},
+{"type":"Feature","properties":{"name": "Mont Saint Michel", "poprank": 4},"geometry":{"coordinates":[2.3499241091215595,48.852972880992326],"type":"Point"}},
+{"type":"Feature","properties":{"name": "Louvre Museum", "poprank": 3},"geometry":{"coordinates":[2.3358390509267224,48.86110390853162],"type":"Point"}},
+{"type":"Feature","properties":{"name": "Musee D'Orsay", "poprank": 5},"geometry":{"coordinates":[2.2951641524433626,48.87387412887276],"type":"Point"}},
+{"type":"Feature","properties":{"name": "Notre Dame", "poprank": 6},"geometry":{"coordinates":[2.120836945104287,48.804793193488024],"type":"Point"}},
+{"type":"Feature","properties":{"name": "Arc De Triomphe", "poprank": 2},"geometry":{"coordinates":[2.3257662149582927,48.8603511619433],"type":"Point"}},
+{"type":"Feature","properties":{"name": "Disneyland", "poprank": 7},"geometry":{"coordinates":[2.7832797043683115,48.86832909776618],"type":"Point"}}
+]}
